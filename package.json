@@ -1,0 +1,25 @@
+{
+  "name": "remark-image-desc",
+  "version": "0.0.8",
+  "description": "",
+  "repository": "vsme/remark-image-desc",
+  "keywords": [
+    "remark",
+    "remark-plugin",
+    "plugin",
+    "image",
+    "desc",
+    "title",
+    "newline"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yaavi",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^4.1.0"
+  }
+}
